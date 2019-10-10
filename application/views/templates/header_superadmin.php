@@ -23,7 +23,7 @@
                     <a id="menu-toggle" href="#" class="glyphicon glyphicon-align-justify btn-menu toggle">
                         <i class="fa fa-bars"></i>
                     </a>
-            <a href="#">DA5 INVENTORY</a>
+            <a href="#">eda5system(Electronic DA5 System)</a>
                 </div>
       </div>
       <div id="navbar" class="collapse navbar-collapse">

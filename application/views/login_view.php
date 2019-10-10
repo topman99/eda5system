@@ -35,7 +35,7 @@
               echo form_open('login','class="myclass"');
               ?><div >
                 <h3><center><img src="<?php echo base_url('assets/images/logo5.png') ?>" width="70%" height="70%" ><br></center></h3>
-                <h4><center>DA5 INVENTORY SYSTEM</center></h4>
+                <h4><center>Electronic DA5 System</center></h4>
                 <div class="form-group">
                 <center>
                   <?php
